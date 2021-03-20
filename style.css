@@ -15,11 +15,11 @@ body{
     font-family: "Times New Roman", 'Courier New', serif ;
     font-size: 2rem;
     padding: 40px ;
-    border: 20px solid green;
+    border: 10px solid green;
     margin: auto;
     width: 80%;
     box-sizing: border-box;
     text-align: center;
     box-shadow: 10px 10px 10px gray;
-    border-radius: 50px;
+    border-radius: 40px;
 }
