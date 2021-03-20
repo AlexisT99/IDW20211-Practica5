@@ -23,3 +23,12 @@ body{
     box-shadow: 10px 10px 10px gray;
     border-radius: 40px;
 }
+
+.indice{
+    list-style: none;
+}
+
+.indice a{
+    text-decoration: none;
+    
+}
